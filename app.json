@@ -1,14 +1,15 @@
 {
-    "name": "بحر سيد",
-    "description": "User bot for telegram !",
+    "name": "Mikthon",
+    "description": " اهلا بكم في تنصيب سورس صيد اليوزرات !",
+    "logo" : "https://graph.org/file/dead0e9a6bc000eff2b2d.jpg",
     "stack": "container",
-    "repository": "https://github.com/alzanaty1238/bahr",
+    "repository": "https://github.com/Mikthon/FQ_YQ",
     "keywords": [
         "python",
         "chatbot",
         "telegrambot"
     ],
-    "website": "https://github.com/alzanaty1238/bahr",
+    "website": "https://github.com/Mikthon/FQ_YQ",
     "env": {
         "APP_ID": {
             "description": "ايبي ايدي",
@@ -26,7 +27,7 @@
             "required": true
         },
         "TOKEN": {
-            "description": "توكن االبوت",
+            "description": "توكن البوت",
             "value": "",
             "required": true
         },
