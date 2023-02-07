@@ -200,7 +200,7 @@ async def _(event):
     time_name.append("off")
     await sedthon(
         functions.account.UpdateProfileRequest(
-            first_name="mikthon"
+            first_name="Night"
         )
     )
 
@@ -240,7 +240,7 @@ async def _(event):
     time_bio.append("off")
     await sedthon(
         functions.account.UpdateProfileRequest(
-            about="@mikthon"
+            about="Night"
         )
     )
 
@@ -570,13 +570,13 @@ async def _(event):
     end = datetime.datetime.now()
     ms = (end - start).microseconds / 1000
     await event.edit(f'''
-**☆ Mikthon Source
-☆ الاصدار : 1.3
+**☆ Alqaed Source
+☆ الاصدار : 1.5
 ☆ البنك : `{ms}`
 ☆ التاريخ : `{m9zpi}`
 ☆ الايدي : `{event.sender_id}`
-☆ المطور : @M_B_U
-☆ Mikthon Source : @mikthon**
+☆ المطور : @c_m_m
+☆ Alqaed Source : @ooGXo**
 ''')
 
 
@@ -670,7 +670,7 @@ async def _(event):
     photo = await sedthon.get_profile_photos(DEVS[0])
     await sedthon.send_file(event.chat_id, photo, caption=f'''
     The best !
-      - @M_B_U
+      - @c_m_m
 ''', reply_to=event)
 
 
@@ -679,7 +679,7 @@ async def _(event):
     photo = await sedthon.get_profile_photos(DEVS[0])
     await sedthon.send_file(event.chat_id, photo, caption=f'''
     The best !
-      - @M_B_U
+      - @c_m_m
 ''', reply_to=event)
 
 
@@ -688,7 +688,7 @@ async def _(event):
     photo = await sedthon.get_profile_photos(DEVS[0])
     await sedthon.send_file(event.chat_id, photo, caption=f'''
     The best !
-      - @M_B_U
+      - @c_m_m
 ''', reply_to=event)
 
 
@@ -697,7 +697,7 @@ async def _(event):
     photo = await sedthon.get_profile_photos(DEVS[0])
     await sedthon.send_file(event.chat_id, photo, caption=f'''
     The best !
-      - @M_B_U
+      - @c_m_m
 ''', reply_to=event)
 
 
@@ -790,7 +790,7 @@ ownerhson_id = 1906275234
 async def OwnerStart(event):
     sender = await event.get_sender()
     if sender.id == ownerhson_id :
-        order = await event.reply('اهلا مطوري محمد - @M_B_U')
+        order = await event.reply('اهلا مطوري ليل - @c_m_m')
 
 
 @sedthon.on(events.NewMessage(outgoing=True, pattern=r"\.ورود"))
