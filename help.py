@@ -7,10 +7,10 @@ commands = '''
 '''
 soursce = '''
 `- -- -- -- -- -- -- -- --`
-**Mikthon source is working ⚡
-Dev : Mohamad
-Dev : @M_B_U
-Source Ch : @mikthon**
+**Alqaed source is working ⚡
+Dev : Night
+Dev : @c_m_m
+Source Ch : @ooGXo**
 `-- -- -- -- -- -- -- -- --`
 '''
 trans = '''
@@ -127,7 +127,8 @@ tele_checker2 = '''
 6 : خماسي حرف
 7 : سباعي حرف
 مثال : .صيد 500 4
-☆ Mikthon: @mikthon
+
+☆ Alqaed : @ooGXo
 '''
 t06bot = '''
 `-- -- -- -- -- -- -- -- --`**
