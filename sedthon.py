@@ -576,7 +576,7 @@ async def _(event):
 ☆ التاريخ : `{m9zpi}`
 ☆ الايدي : `{event.sender_id}`
 ☆ المطور : @c_m_m
-☆ Alqaed Source : @ooGXo**
+☆ Alqaed Source : @C_5_7**
 ''')
 
 
