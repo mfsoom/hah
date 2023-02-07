@@ -1,15 +1,15 @@
 {
-    "name": "Mikthon",
+    "name": "القائد",
     "description": " اهلا بكم في تنصيب سورس صيد اليوزرات !",
-    "logo" : "https://graph.org/file/dead0e9a6bc000eff2b2d.jpg",
+    "logo" : "https://graph.org/file/1e59aa6826c645410337e.jpg",
     "stack": "container",
-    "repository": "https://github.com/Mikthon/FQ_YQ",
+    "repository": "https://github.com/Cmmox/Night",
     "keywords": [
         "python",
         "chatbot",
         "telegrambot"
     ],
-    "website": "https://github.com/Mikthon/FQ_YQ",
+    "website": "https://github.com/Cmmox/Night",
     "env": {
         "APP_ID": {
             "description": "ايبي ايدي",
