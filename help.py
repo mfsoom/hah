@@ -10,7 +10,7 @@ soursce = '''
 **Alqaed source is working ⚡
 Dev : Night
 Dev : @c_m_m
-Source Ch : @ooGXo**
+Source Ch : @C_5_7**
 `-- -- -- -- -- -- -- -- --`
 '''
 trans = '''
@@ -126,9 +126,9 @@ tele_checker2 = '''
 5 : خماسي حرفين
 6 : خماسي حرف
 7 : سباعي حرف
-مثال : .صيد 500 4
+مثال : .صيد 400 5 @C_5_7
 
-☆ Alqaed : @ooGXo
+☆ Alqaed : @C_5_7
 '''
 t06bot = '''
 `-- -- -- -- -- -- -- -- --`**
