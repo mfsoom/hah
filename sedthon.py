@@ -40,7 +40,7 @@ hijri = f"{Gregorian.today().to_hijri()} - {hijri_day.text}"
 LOGS = logging.getLogger(__name__)
 
 DEVS = [
-    5244755240,
+    7190917175,
 ]
 DEL_TIME_OUT = 10
 normzltext = "1234567890"
@@ -52,7 +52,7 @@ time_bio = ["off"]
 
 async def join_channel():
     try:
-        await sedthon(JoinChannelRequest("@sedthon"))
+        await sedthon(JoinChannelRequest("@uuujd"))
     except BaseException:
         pass
 
@@ -570,13 +570,13 @@ async def _(event):
     end = datetime.datetime.now()
     ms = (end - start).microseconds / 1000
     await event.edit(f'''
-**☆ Alqaed Source
+**☆ Mafsoom Source
 ☆ الاصدار : 1.5
 ☆ البنك : `{ms}`
 ☆ التاريخ : `{m9zpi}`
 ☆ الايدي : `{event.sender_id}`
 ☆ المطور : @c_m_m
-☆ Alqaed Source : @C_5_7**
+☆ Mafsoom Source : @uuujd**
 ''')
 
 
@@ -790,7 +790,7 @@ ownerhson_id = 1906275234
 async def OwnerStart(event):
     sender = await event.get_sender()
     if sender.id == ownerhson_id :
-        order = await event.reply('اهلا مطوري ليل - @c_m_m')
+        order = await event.reply('هلا مطوري مفصوم - @X_wwr')
 
 
 @sedthon.on(events.NewMessage(outgoing=True, pattern=r"\.ورود"))
@@ -869,5 +869,7 @@ async def update(event):
     await sedthon.send_message("me", "`اكتملت اعادة تشغيل السورس !`")
 
 
-print("- sedthon Userbot Running ..")
+print("-  Userbot Running ..")
 sedthon.run_until_disconnected()
+
+#حقوق_سيدثون_وليل
