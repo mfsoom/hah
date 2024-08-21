@@ -7,10 +7,10 @@ commands = '''
 '''
 soursce = '''
 `- -- -- -- -- -- -- -- --`
-**Alqaed source is working ⚡
-Dev : Night
-Dev : @c_m_m
-Source Ch : @C_5_7**
+**mafsoom source is working ⚡
+Dev : مفصوم
+Dev : @X_wwr
+Source Ch : @uuujd**
 `-- -- -- -- -- -- -- -- --`
 '''
 trans = '''
@@ -126,9 +126,9 @@ tele_checker2 = '''
 5 : خماسي حرفين
 6 : خماسي حرف
 7 : سباعي حرف
-مثال : .صيد 400 5 @C_5_7
+مثال : .صيد 400 5 @X_wwr
 
-☆ Alqaed : @C_5_7
+☆ mafsoom : @uuujd
 '''
 t06bot = '''
 `-- -- -- -- -- -- -- -- --`**
